@@ -30,3 +30,4 @@ Resources used:
 - Neon: https://neon.tech/
 - Recharts: https://recharts.org/
 - Upstash: https://upstash.com/
+# Ecommerce
